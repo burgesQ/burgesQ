@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on cool stuffs
 - ⚡ Fun fact: everybody calls me Q 
 - 💬 Ask me about `c`, `c++`, `go` or Laurent Garnier 🎧
-- 🤓 what I'm working with :
+- 🤓 what I'm working with those last 7 days :
 <!--START_SECTION:waka-->
 ```text
 Other       26 mins             ████████████░░░░░░░░░░░░░   50.02 
