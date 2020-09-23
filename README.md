@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-- 🔭 I’m currently working on cool stuffs
+- 🔭 I’m currently working on cool stuffs for [Frafos](https://www.frafos.com/)
 - ⚡ Fun fact: everybody calls me Q 
 - 💬 Ask me about `c`, `c++`, `go` or Laurent Garnier 🎧
 - 🤓 what I'm working with those last 7 days :
