@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🤓 what I'm working with those last 7 days :
 <!--START_SECTION:waka-->
 ```text
-Week: 13 July, 2021 - 19 July, 2021
+Week: 14 July, 2021 - 20 July, 2021
 
 PHP     3 hrs 53 mins   ⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.55 % 
 C++     3 hrs 5 mins    ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.21 % 
