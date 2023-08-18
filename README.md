@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on cool stuffs for [Frafos](https://www.frafos.com/)
 - ⚡ Fun fact: everybody calls me Q
-- 💬 Ask me about `git`, `c`, `docker`, `go` or Laurent Garnier 🎧
+- 💬 Ask me about `git`, `c`, `emacs` `containers`, `go` or Laurent Garnier 🎧
